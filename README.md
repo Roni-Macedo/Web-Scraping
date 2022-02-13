@@ -19,8 +19,9 @@
                                 "celular": "(11) xxxxx-xxxx",
                                 "mail": "xxxxx_@hotmail.com"
                             }
-                        }*-----------------------------------------------*
+                        }
+                *-----------------------------------------------*
                             O uso indevido deste script e
                         total responsabilidade do utilizador!
-                
-            # web-scraping
+
+# web-scraping
