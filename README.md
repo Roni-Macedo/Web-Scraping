@@ -1,4 +1,4 @@
-                                 PARA FINS DIDÁTICOS
+                             #    PARA FINS DIDÁTICOS
                     O gerador_v1: Faz uma request no site e gera dados
                         pessoais, e salva em um arquivo json.
                         
